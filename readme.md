@@ -11,7 +11,7 @@ Alien Invasion is a 2D side-scrolling space shooter. The player controls
 a ship that moves horizontally along the bottom of the screen and fires
 bullets upward. The goal is to survive waves of descending aliens while
 destroying as many as possible. The game features a simple score system,
-lives, and increasing difficulty as the alien fleet descends.
+lives, and increasing difficulty as the alien fleet descends. You'll learn OOP here a lot!
 
 ## How to Run
 
